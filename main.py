@@ -2,7 +2,7 @@ import os
 import sys
 import xml.etree.ElementTree as ET
 import time
-import socket.client as client
+import sockets.client as client
 import glob
 from platform import system
 
